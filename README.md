@@ -55,11 +55,6 @@ bayesian_optimization_ackley/
 │   ├── benchmark_functions.py
 │   ├── acquisition_strategies.py
 │   └── ...
-├── slurm/                         # SLURM scripts
-│   ├── run_optimizer.slurm
-│   ├── run_optimizer_llm.slurm
-│   ├── aggregate_results.slurm
-│   └── ...
 └── generate_configs.py            # Helper to generate YAML configs
 ```
 
