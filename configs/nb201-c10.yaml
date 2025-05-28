@@ -1,0 +1,14 @@
+M: 5
+alpha_max: 1.0
+alpha_min: 0.01
+api_key: gemini
+batch_size: 4
+dataset: cifar10
+device_metric: 1080ti_32_latency
+dim: 6
+function: nb201-c10
+k: 5
+lam: 0.0
+max_evals: 100
+n_init: 15
+optimizer: hollm

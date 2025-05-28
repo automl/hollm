@@ -1,0 +1,12 @@
+M: 5
+alpha_max: 1.0
+alpha_min: 0.01
+api_key: gemini
+batch_size: 4
+dim: 6
+function: hartmann
+k: 5
+lam: 0.0
+max_evals: 100
+n_init: 5
+optimizer: hollm
