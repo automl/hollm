@@ -1,4 +1,4 @@
-# Bayesian Optimization Framework
+# Hierarchical Optimization with Large Language Models (HOLLM)
 
 This repository contains a minimal implementation of Hierarchical Optimization with Large Language Models (HOLLM)
 
