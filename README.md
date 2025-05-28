@@ -43,7 +43,7 @@ python run_benchmarks.py --config configs/levy.yaml
 ## Directory Structure
 
 ```
-bayesian_optimization_ackley/
+hollm/
 ├── README.md
 ├── requirements.txt
 ├── run_benchmarks.py          # Main script (now uses YAML configs)
